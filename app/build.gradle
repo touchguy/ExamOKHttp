@@ -1,5 +1,7 @@
 apply plugin: 'com.android.application'
 
+//  임시 저장입니다.
+
 android {
     compileSdkVersion 30
 
