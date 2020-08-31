@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    //  change.. 11
+    //  change.. 11  ㅁㅁ
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
